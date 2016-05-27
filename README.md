@@ -13,7 +13,7 @@ example:
 </p>
 </br>
 <h6>Versions:</h6>
-<strong>0.9.1 - beta version</strong>
+<strong>0.9.1 - beta version</strong></br>
 <i>utility creating index.html (main structure) <strong> FOR NOW</strong></i>
 <p>usage:</p>
 
