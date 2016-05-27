@@ -33,7 +33,7 @@ if ($enter eq  $help)
     open (webs, ">$enter.html");
     close webs;
 
-    copy("htmlcrf/html","$enter.html") or die "[-]Error\n";
+    copy("htmlcrf/html.html","$enter.html") or die "[-]Error\n";
     
     print "move:\n";
     chomp ($move = <STDIN>);
