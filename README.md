@@ -1,1 +1,2 @@
-<h1>htmlcr.pl - utility, generate file (*.html..... future versions more options )</h1>
+<h1>htmlcr.pl - utility, generate file</h1>
+<p><i>gloriousrootkit/Daniel Krsek</i></p>
