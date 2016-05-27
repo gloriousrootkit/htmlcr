@@ -13,8 +13,15 @@ example:
 </p>
 </br>
 <h6>Versions:</h6>
-<p>0.9.1 - beta version</p>
-<strong>how it works:</strong>
+<strong>0.9.1 - beta version</strong>
+<p>usage:</p>
+</br>
+<p>1.run utility<code>./htmlcr.pl</code></p>
+<p>2.type name of file<code>index</code></p>
+<p>3.where to move generated file(from <code>/home/username/$move --> move somewhere</code>) <code>/Desktop/website/</code>
+</br>
+</code>
+
 
 
 </p>
