@@ -14,6 +14,7 @@ example:
 </br>
 <h6>Versions:</h6>
 <strong>0.9.1 - beta version</strong>
+<i>utility creating index.html (main structure) <strong> FOR NOW</strong></i>
 <p>usage:</p>
 
 <p>1.run utility<code>./htmlcr.pl</code></p>
