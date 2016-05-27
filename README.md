@@ -8,6 +8,7 @@ example:
 <ul>
 <li>generate index.html (html main structure)</li>
 <li>generate some *.js, *.php, files(login form, etc...)</li>
+<li>in future versions more options</li>
 </ul>
 </p>
 </br>
