@@ -1,2 +1,1 @@
-# htmlcr
-<h1>Test</h1>
+<h1>htmlcr.pl - utility, generate file (*.html..... future versions more options )</h1>
