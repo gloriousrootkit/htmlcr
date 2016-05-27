@@ -13,4 +13,8 @@ example:
 </p>
 </br>
 <h6>Versions:</h6>
-<p>1.0.0.2</p>
+<p>0.9.1 - beta version</p>
+<strong>how it works:</strong>
+
+
+</p>
