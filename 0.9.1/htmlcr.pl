@@ -13,7 +13,7 @@ $enter;
 $help = "help";
 $nameoffile;
 my $username = getusername();
-print color ("red"), "htmlcr ulity 1.0.0.2\n", color ("reset");
+print color ("red"), "htmlcr ulity 0.9.1\n", color ("reset");
 
 chomp ($enter = <STDIN>);
 
