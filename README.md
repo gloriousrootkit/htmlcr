@@ -1,4 +1,4 @@
-<h1>htmlcr.pl - utility, generate file</h1>
+<h1>htmlcr.pl - utility, generate file - <strong>version 0.9.2 relased</strong></h1>
 </br>
 <p><i>gloriousrootkit/Daniel Krsek</i></p>
 </br>
@@ -13,6 +13,12 @@ example:
 </p>
 </br>
 <h6>Versions:</h6>
+<strong>0.9.2</strong></br>
+<i>news:</i>
+<ul>
+<li>Users can add templates</li>
+<li></li>
+</ul>
 <strong>0.9.1 - beta version</strong></br>
 <i>utility creating index.html (main structure) <strong> FOR NOW</strong></i>
 <p>usage:</p>
