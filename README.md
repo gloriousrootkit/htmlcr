@@ -16,8 +16,9 @@ example:
 <strong>0.9.2</strong></br>
 <i>news:</i>
 <ul>
-<li>Users can add templates</li>
-<li></li>
+<li>User can add templates</li>
+<li>more options</li>
+<li><code>help</code> - update</li>
 </ul>
 <strong>0.9.1 - beta version</strong></br>
 <i>utility creating index.html (main structure) <strong> FOR NOW</strong></i>
