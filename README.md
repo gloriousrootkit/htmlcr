@@ -3,6 +3,15 @@
 <p><i>gloriousrootkit/Daniel Krsek</i></p>
 </br>
 <p>utility, generating file from template </br>
+what is htmlcr.pl???</br>
+-utility, generating file from template.</br>
+what does it mean????</br>
+-for example :</br>
+-your are html programmer and you are lazy to creat html file with main structure :P</br>
+-you use my utility to generate html file with main structure</br>
+are there more templates?? </ber>
+-yes.</br>
+-btw. User can add templates</br> 
 </br>
 example:
 <ul>
