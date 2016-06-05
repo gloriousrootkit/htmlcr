@@ -88,6 +88,6 @@ else
 }
 
 sub getusername {
-    my $user = $ENV{ USERNAME };
+    my $user = $ENV{ USER };
     return $user;
 }
