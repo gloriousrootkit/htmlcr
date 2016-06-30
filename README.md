@@ -1,6 +1,6 @@
 <h1>htmlcr.pl - utility, generate file - <strong>version 0.9.2 relased</strong></h1>
 </br>
-<p><i>gloriousrootkit/Daniel Krsek</i></p>
+<p><i>gloriousrootkit</i></p>
 </br>
 <a href="https://www.youtube.com/watch?v=1HHJ-1TLa_Y">utility review - youtube</a>
 <p>utility, generating file from template </br>
